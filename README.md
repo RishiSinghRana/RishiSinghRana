@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RishiSinghRana
 - 👀 I’m interested in Games and Game Development
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++, Java and Game Engines (Unity and Unreal)
 - 💞️ I would really appreciate to work on any projects
 - 📫 To reach me: rishisinghrana08@gmail.com
 
